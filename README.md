@@ -19,6 +19,8 @@ Projects
 
 - `6-Machine-learning` — A Jupyter notebook to follow tutorials about machine learning on the internet
 
+- `7-Batch-Usb-Crash` — Just me making a fork bomb on an usb stick to try .bat files
+
 Notes
 -----
 
