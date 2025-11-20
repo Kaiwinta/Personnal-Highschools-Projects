@@ -17,6 +17,8 @@ Projects
 
 - `5-SAP-copycat` — A work-in-progress project inspired by SAP-like workflows to manage orders, packages and products. The goal is a lightweight interface and database structure to track orders and inventory for small factories. Includes notes on database separation (orders vs product data), class structure, and operational constraints.
 
+- `6-Machine-learning` — A Jupyter notebook to follow tutorials about machine learning on the internet
+
 Notes
 -----
 
